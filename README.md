@@ -64,4 +64,4 @@ I trained and evaluated several classification algorithms using pipelines and cr
 - Extend to time-based modeling or customer lifecycle predictions.
 
   
-[GitHub](https://github.com/yourusername) • (https://www.linkedin.com/in/chidiebere-christopher/)
+[GitHub](https://github.com/93Chidiebere) • (https://www.linkedin.com/in/chidiebere-christopher/)
